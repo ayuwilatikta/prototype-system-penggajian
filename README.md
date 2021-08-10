@@ -1,3 +1,3 @@
 # prototype-system-penggajian
-prototype sederhana
-prototype sistem penggajian karyawan kerja
+prototype sederhana >
+prototype sistem penggajian karyawan
